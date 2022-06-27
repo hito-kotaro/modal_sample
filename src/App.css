@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.modal {
+  transition-duration: 1000ms;
+  background-color: bisque;
+}
